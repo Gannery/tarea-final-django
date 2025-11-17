@@ -1,0 +1,19 @@
+# UV
+.uv/
+
+# Django
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+.env
+.local_settings.py
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
